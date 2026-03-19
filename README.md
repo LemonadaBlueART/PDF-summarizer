@@ -24,6 +24,7 @@ source pdf_ai_env/bin/activate
 pip install PyMuPDF PyQt5 reportlab llama-cpp-python
 
 Windows (CMD):
+
 :: 1. Create a virtual environment
 python -m venv pdf_ai_env
 
