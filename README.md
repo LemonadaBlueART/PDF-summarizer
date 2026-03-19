@@ -9,9 +9,7 @@ gemma-3-12b-it-gguf : https://huggingface.co/unsloth/gemma-3-12b-it-GGUF?utm_sou
 
 Obs.: All models must be in the same folder as the code.
 
-< -------------------------------------------------- >
- pip install PyMuPDF PyQt5 reportlab llama-cpp-python
-< -------------------------------------------------- >
+# pip install PyMuPDF PyQt5 reportlab llama-cpp-python
 
 Linux/Mac:
 # 1. Create a virtual environment
